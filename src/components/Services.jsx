@@ -101,7 +101,7 @@ const Services = () => {
         animate={inView ? 'visible' : 'hidden'}
       >
         <SectionHeading
-          subtitle="04 — Services"
+          
           title="What I"
           highlight="Offer"
           description="Comprehensive web development services tailored to your unique needs and goals."
